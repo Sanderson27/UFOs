@@ -1,6 +1,6 @@
 # Overview
  
- Through creation of a website using html we are able to better show our data. Particularly being able to addd filters allows the user to find specific data quickly. Now they are able to look up sightings based on a specific place, time or both.
+ Through creation of a website using html/CSS we are able to better show our data. Particularly being able to addd filters allows the user to find specific data quickly. Now they are able to look up sightings based on a specific place, time or both.
  
  ## Results
   
